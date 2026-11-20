@@ -1,0 +1,31 @@
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.*
+
+# Excel Output Files
+*.xlsx
+*.xls
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

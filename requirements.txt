@@ -1,0 +1,14 @@
+
+# Python 3.10+
+
+# Web Scraping
+requests>=2.31,<3.0
+beautifulsoup4>=4.12,<5.0
+lxml>=5.2,<7.0
+
+# Data Processing and Excel
+pandas>=2.2,<3.0
+openpyxl>=3.1,<4.0
+
+# MySQL Database
+mysql-connector-python>=8.3,<10.0
